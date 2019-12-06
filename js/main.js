@@ -34,7 +34,7 @@ $(function() {
 // PARTICLES
 
 /* particlesJS.load(@dom-id, @path-json, @callback (optional)); */
-particlesJS.load("particles-js", "/particles/particles.json", function() {
+particlesJS.load("particles-js", "/tomsisserman.github.io/particles/particles.json", function() {
   console.log("callback - particles.js config loaded");
 });
 
